@@ -11,7 +11,7 @@
   </tr>
 </table>
 
-</div>
+</div>>
 
 
 [![Website](https://img.shields.io/badge/Dashboard-Live-brightgreen)](https://planeasy-webgis.web.app/)
@@ -76,17 +76,6 @@ If you use **PlanEasy** in your research or institutional projects, please cite:
 
 ---
 
-## 💡 Feedback and Collaboration
-
-PlanEasy is continuously evolving.  
-We welcome **suggestions, collaborations, and feature requests** to improve the platform.
-
-👉 You can:
-- Open an [Issue](../../issues) on this repository  
-- Or contact us directly by email (see below)
-
----
-
 ## 👩‍🔬 Authors
 
 - **Prof. Guido Gentile**  
@@ -94,7 +83,10 @@ We welcome **suggestions, collaborations, and feature requests** to improve the 
 
 ---
 
-## 📬 Contact
+## 💡 Feedback and Collaboration
+
+PlanEasy is continuously evolving.  
+We welcome **suggestions, collaborations, and feature requests** to improve the platform.
 
 For feedback, collaborations, or questions:  
 📧 **Lory Michelle Bresciani Miristice** — [brescianilory@gmail.com](mailto:brescianilory@gmail.com)  
