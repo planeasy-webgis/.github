@@ -64,15 +64,12 @@ PlanEasy has been successfully applied in multiple projects and case studies:
 
 ---
 
-## 📖 Citation
+## 🧠 Citation and use
 
-If you use **PlanEasy** in your research or institutional projects, please cite:
+To cite PlanEasy in academic or technical work:
 
-> Gentile, G., & Bresciani Miristice, L. M. (2025).  
-> **PlanEasy: A WebGIS Platform for Land-use and Transport Planning.**  
-> *Journal (forthcoming).*  
-
-📌 A link to the final publication will be added here once available.
+> Gentile, G., & Bresciani Miristice, L. M. (2025). *PlanEasy WebGIS Platform.*  
+> Available at: [https://github.com/planeasy-webgis/](https://github.com/planeasy-webgis/)
 
 ---
 
