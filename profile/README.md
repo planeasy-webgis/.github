@@ -106,8 +106,9 @@ For feedback, collaborations, or questions:
 For system architecture and methodological documentation, see the  
 📘 [PlanEasy WebGIS Guidelines](https://github.com/planeasy-webgis/guidelines)
 
-For examples of questionnaires, see the  
+For examples of questionnaires, see the 
 📘 [wemolab Questionnaires](https://github.com/wemolab/questionnaires)
+
 ---
 
 ## 🔖 License
