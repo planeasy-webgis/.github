@@ -42,9 +42,9 @@ PlanEasy has been successfully applied in multiple projects and case studies:
 | Application | Description |
 |--------------|--------------|
 | **Public Transport Demand Estimation for Large Events** | Integration of tourist accommodations, attractions, and GTFS data to estimate additional public transport demand during the Jubilee event in Rome. |
-| **Road Safety Analysis** | Interactive visualization and filtering of accident datasets, supporting safety planning and risk assessment. |
-| **Accessibility Studies** | Evaluation of travel times and accessibility to schools, workplaces, and services via public transport. |
-| **Multilingual Surveys** | Integration of web-based surveys for collecting mobility and perception data (e.g., perceived safety, mode choice). |
+| **[Road Safety Analysis](https://road-safety.wemolab.eu/)** | Interactive visualization and filtering of accident datasets, supporting safety planning and risk assessment. |
+| **[Accessibility Studies](https://reachability.wemolab.eu/)** | Evaluation of travel times and accessibility to schools, workplaces, and services via public transport. |
+| **[Multilingual Surveys](https://questionnaire-builder.wemolab.eu/)** | Integration of web-based surveys for collecting mobility and perception data (e.g., perceived safety, mode choice). |
 
 > Demo dashboards and datasets will be linked here as soon as they are released.
 
