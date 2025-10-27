@@ -107,7 +107,7 @@ For feedback, collaborations, or questions:
 ---
 
 For system architecture and methodological documentation, see the  
-📘 [PlanEasy WebGIS Guidelines](https://github.com/planeasy-webgis/planeasy-guidelines)
+📘 [PlanEasy WebGIS Guidelines](https://github.com/planeasy-webgis/guidelines)
 
 ---
 
