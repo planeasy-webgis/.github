@@ -109,22 +109,25 @@ For feedback, collaborations, or questions:
 For system architecture and methodological documentation, see the  
 📘 [PlanEasy WebGIS Guidelines](https://github.com/planeasy-webgis/guidelines)
 
+For examples of questionnaires, see the  
+📘 [wemolab Questionnaires](https://github.com/wemolab/questionnaires)
 ---
 
 ## 🔖 License
 
 All materials in this repository are released under the  
-**Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International (CC BY-NC-ND 4.0)** license.
+**Creative Commons Attribution–NonCommercial 4.0 International (CC BY-NC 4.0)** license.
 
-This means you are free to **share** the material (copy and redistribute it in any medium or format)  
+This means you are free to **share** (copy and redistribute the material in any medium or format)  
+and **adapt** (remix, transform, and build upon the material)  
 under the following terms:
 
-- **Attribution (📘 BY):** Proper credit must be given to the authors.  
+- **Attribution (📘 BY):** You must give appropriate credit, provide a link to the license, and indicate if changes were made.  
 - **NonCommercial (💼 NC):** You may not use the material for commercial purposes.  
-- **NoDerivatives (🧱 ND):** You may not modify, transform, or build upon the material.  
 
 Any other use requires **explicit written permission** from the authors.
 
-📄 Full license text: [https://creativecommons.org/licenses/by-nc-nd/4.0/](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+📄 Full license text: [https://creativecommons.org/licenses/by-nc/4.0/](https://creativecommons.org/licenses/by-nc/4.0/)
 
 © 2025 Guido Gentile & Lory Michelle Bresciani Miristice – All rights reserved.
+
