@@ -1,4 +1,18 @@
-# 🌍 PlanEasy – WebGIS Platform for Land-use and Transport Planning
+<div align="center">
+
+<table border="0" cellpadding="0" cellspacing="0" style="border:1px solid transparent;">
+  <tr style="border:1px solid transparent;">
+    <td style="border:1px solid transparent; vertical-align: middle; padding-right: 16px;">
+      <img src="https://github.com/planeasy-webgis.png" width="80" alt="PlanEasy logo">
+    </td>
+    <td style="border:1px solid transparent; vertical-align: middle;">
+      <h1 style="margin: 0; padding: 0;">PlanEasy – WebGIS Platform for Land-use and Transport Planning</h1>
+    </td>
+  </tr>
+</table>
+
+</div>
+
 
 [![Website](https://img.shields.io/badge/Dashboard-Live-brightgreen)](https://planeasy-webgis.web.app/)
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC--BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
