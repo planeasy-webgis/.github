@@ -39,8 +39,8 @@ and comply with **GDPR (Art. 89)** standards for scientific research.
 
 | Module | Description | Repository |
 |---------|--------------|-------------|
-| 🗺️ **PlanEasy WebGIS Framework** | Cloud-based environment for spatial visualization, accessibility analysis, and mobility dashboards. | [🔗 planeasy-webgis-framework](https://github.com/planeasy/planeasy-webgis-framework) |
-| 👥 **PlanEasy Crowdsourcing Framework** | Ethical and GDPR-compliant system for participatory data collection and citizen science. Includes the official library of multilingual **questionnaire templates** for behavioural and perception research. | [🔗 planeasy-crowdsourcing-framework](https://github.com/planeasy/planeasy-crowdsourcing-framework) |
+| 🗺️ **PlanEasy WebGIS Framework** | Cloud-based environment for spatial visualization, accessibility analysis, and mobility dashboards. | [🔗 planeasy-webgis-framework](https://github.com/planeasy-webgis/planeasy-webgis-framework) |
+| 👥 **PlanEasy Crowdsourcing Framework** | Ethical and GDPR-compliant system for participatory data collection and citizen science. Includes the official library of multilingual **questionnaire templates** for behavioural and perception research. | [🔗 planeasy-crowdsourcing-framework](https://github.com/planeasy-webgis/planeasy-crowdsourcing-framework) |
 
 All modules share a unified data model and can be integrated seamlessly through APIs or direct JSON schemas.
 
