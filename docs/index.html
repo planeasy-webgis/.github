@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#087083">
+  <meta name="description" content="PlanEasy tools for spatial analysis and participatory city planning.">
+  <title>PlanEasy · Plan the city together</title>
+  <link rel="icon" href="assets/planeasy_mark.svg" type="image/svg+xml">
+  <style>
+    :root{color-scheme:light;--teal:#087083;--ink:#0b1214;--muted:#40565c;--line:#cddfe2;--paper:#f3f7f8;font:16px/1.55 system-ui,-apple-system,"Segoe UI",sans-serif}
+    *{box-sizing:border-box}
+    body{margin:0;background:var(--paper);color:var(--ink)}
+    a{color:#065a69}
+    a:focus-visible{outline:3px solid #d6206b;outline-offset:4px}
+    .topbar{background:var(--teal);padding:13px max(22px,calc((100% - 1040px)/2))}
+    .topbar img{display:block;width:177px;height:48px}
+    main{max-width:1040px;margin:auto;padding:clamp(36px,8vw,90px) 22px 50px}
+    .eyebrow{margin:0 0 12px;color:#065a69;font-size:.78rem;font-weight:800;letter-spacing:.12em;text-transform:uppercase}
+    h1{max-width:800px;margin:0;font-size:clamp(2.4rem,6vw,4.8rem);line-height:1.06;letter-spacing:-.055em}
+    .lead{max-width:680px;margin:23px 0 0;color:var(--muted);font-size:clamp(1.05rem,2.2vw,1.3rem)}
+    .rule{width:74px;height:5px;margin:32px 0 44px;border-radius:4px;background:#d6206b}
+    h2{margin:0 0 18px;font-size:1.45rem;letter-spacing:-.025em}
+    .grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px}
+    .card{display:block;min-height:190px;padding:24px;border:1px solid var(--line);border-radius:16px;background:#fff;text-decoration:none;box-shadow:0 8px 30px #0b12140b}
+    .card:hover{border-color:var(--teal);box-shadow:0 12px 30px #0b121417}
+    .card strong{display:block;color:var(--ink);font-size:1.2rem}
+    .card span{display:block;margin-top:10px;color:var(--muted)}
+    .card em{display:inline-block;margin-top:20px;color:#065a69;font-style:normal;font-weight:750}
+    footer{max-width:1040px;margin:auto;padding:22px;border-top:1px solid var(--line);color:var(--muted);font-size:.9rem}
+    @media(max-width:620px){.grid{grid-template-columns:1fr}.card{min-height:0}}
+  </style>
+</head>
+<body>
+  <header class="topbar"><a href="https://github.com/planeasy-webgis" aria-label="PlanEasy on GitHub"><img src="assets/planeasy_logo.svg" alt="PlanEasy" width="177" height="48"></a></header>
+  <main>
+    <p class="eyebrow">PlanEasy ecosystem</p>
+    <h1>Plan the city together.</h1>
+    <p class="lead">Open research tools for spatial analysis, mobility and participatory planning.</p>
+    <div class="rule" aria-hidden="true"></div>
+    <section aria-labelledby="projects-title">
+      <h2 id="projects-title">Explore the frameworks</h2>
+      <div class="grid">
+        <a class="card" href="https://github.com/planeasy-webgis/planeasy-webgis-framework"><strong>WebGIS Framework</strong><span>Documentation and shared foundations for mapping, spatial analysis and mobility dashboards.</span><em>View repository ↗</em></a>
+        <a class="card" href="https://github.com/planeasy-webgis/planeasy-crowdsourcing-framework"><strong>Crowdsourcing Framework</strong><span>Questionnaire schemas and guidance for participatory data collection and research.</span><em>View repository ↗</em></a>
+      </div>
+    </section>
+  </main>
+  <footer>PlanEasy · <a href="https://github.com/planeasy-webgis">GitHub organization</a></footer>
+</body>
+</html>
